@@ -8,7 +8,7 @@ _Replace access key and secret access key with your keys as these are not functi
 
 ## Running
 
-'pipenv run python shotty/shotty.py  _command_  _--project PROJECT_NAME_'
+```'pipenv run python shotty/shotty.py  _command_  _--project PROJECT_NAME_'```
 
 *command* is list, start, stop
 
